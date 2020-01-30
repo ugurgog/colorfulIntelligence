@@ -1,0 +1,48 @@
+{
+  "project_info": {
+    "project_number": "459908628307",
+    "firebase_url": "https://colorful-intelligence.firebaseio.com",
+    "project_id": "colorful-intelligence",
+    "storage_bucket": "colorful-intelligence.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:459908628307:android:7140d4ad89a88f2f6aaba6",
+        "android_client_info": {
+          "package_name": "com.uren.colorfulintellgence"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "459908628307-umd4jevrcfoen1d1as8v2sqf57tg7gfo.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.uren.colorfulintellgence",
+            "certificate_hash": "dca961e1e846a920f4f91dbbaf7b03984b467531"
+          }
+        },
+        {
+          "client_id": "459908628307-ur0jefm4b1flt9qgcn37hb1ondjuf285.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBw-hLI39711ysCe52RuWs-UpPiPuLC1sM"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "459908628307-ur0jefm4b1flt9qgcn37hb1ondjuf285.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
